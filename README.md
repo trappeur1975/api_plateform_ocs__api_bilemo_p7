@@ -37,3 +37,5 @@ dans le fichier "composer.json" un script (que j ai nommé « reset-data ») a �
 
 20/12/2021 : entity, fixture, data game
 
+20/12/2021 : dev2 api platiform
+
