@@ -35,3 +35,5 @@ dans le fichier "composer.json" un script (que j ai nommé « reset-data ») a �
 
 20/12/2021 : creation of the project symfony5.4.1
 
+20/12/2021 : entity, fixture, data game
+
