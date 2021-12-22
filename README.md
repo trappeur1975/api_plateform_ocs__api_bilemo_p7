@@ -2,9 +2,15 @@
 ----------------------infos doc--------------------
 
 versions symfony : https://symfony.com/releases
+
 bundles symfony :
     https://packagist.org/
     https://flex.symfony.com/
+
+
+tutoriel api platform :
+    https://yoandev.co/integration-continue-dune-api-symfony-api-platform-avec-postman-et-gitlab-ci
+
 
 ----------------------infos commande--------------------
 
@@ -39,3 +45,4 @@ dans le fichier "composer.json" un script (que j ai nommé « reset-data ») a �
 
 20/12/2021 : dev2 api platiform
 
+20/12/2021 : dev3 jwt avewith api platiform
